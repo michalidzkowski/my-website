@@ -2,6 +2,4 @@
 
 changes
 
-edited
-
-updated
+replaced
