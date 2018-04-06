@@ -4,5 +4,4 @@ changes
 
 replaced
 
-
-closed
+## Getting Started
